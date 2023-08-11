@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sirildo
-- 👀 I’m interested in ... developing apps on a blockchain
+- 👀 I’m interested in ... making blideo blames
 - 🌱 I’m currently learning ... python, c#, java
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... TBD
